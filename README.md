@@ -2,6 +2,8 @@ Used `spacy` to detect language.
 
 Used `nltk` to tokenize the messages.
 
+Used `nltk vader` for sentiment analysis without training.
+
 Sentiment score is a score between -1 and 1. The closer the number is to one, it is more positive and vice versa.
 
 Average sentiment score per day:
